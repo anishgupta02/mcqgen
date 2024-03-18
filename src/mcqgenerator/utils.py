@@ -2,7 +2,6 @@ import os
 import PyPDF2
 import json
 import traceback
-from datetime import datetime
 
 
 def read_file(file):
